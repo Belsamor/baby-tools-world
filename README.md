@@ -18,14 +18,14 @@ This Project teaches Python, Django, HTML and how to use docker.
   - [Usage](#usage)
     - [Configuration](#configuration)
     - [Running the linting tools](#running-the-linting-tools)
-        - [When to run this](#when-to-run-this)
+      - [When to run this](#when-to-run-this)
     - [Testing](#testing)
-        - [Running tests](#running-tests)
+      - [Running tests](#running-tests)
     - [Running with a WSGI Server](#running-with-a-wsgi-server)
     - [Seeding the application with data](#seeding-the-application-with-data)
     - [Containerization](#containerization)
-        - [Build an image](#build-an-image)
-        - [Run a container](#run-a-container)
+      - [Build an image](#build-an-image)
+      - [Run a container](#run-a-container)
 
 ## Prerequisites
 
