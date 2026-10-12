@@ -8,7 +8,7 @@ This Project teaches Python, Django, HTML and how to use docker.
 
 ## Table of Contents
 
-- [Belsamor/baby-tools-world](#Belsamor/baby-tools-world)
+- [Belsamor/baby-tools-world](#Belsamorbaby-tools-world)
   - [Baby Tools World](#baby-tools-world)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
