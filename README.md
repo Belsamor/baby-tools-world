@@ -1,14 +1,34 @@
+# Belsamor/baby-tools-world
+
 # Baby Tools World
 
 This repository contains the source code of the 'Baby Tools World' which is a simple full stack shop application written in Python using Django 6.
 The project was developed for educational purposes only and therefore has no claim to feature completeness, or only minimal claims regarding application security, user experience, or design.
 
-> [!NOTE]
-> This project assumes you already know the python programming language
+## Table of Contents
+
+- [Belsamor/baby-tools-world](#Belsamor/baby-tools-world)
+  - [Baby Tools World](#baby-tools-world)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Quickstart](#quickstart)
+  - [Project Structure](#project-structure)
+  - [Apps Overview](#apps-overview)
+  - [Usage](#usage)
+  - [Configuration](#configuration)
+  - [Running the linting tools](#running-the-linting-tools)
+  - [When to run this](#when-to-run-this)
+  - [Testing](#testing)
+  - [Running tests](#running-tests)
+  - [Running with a WSGI Server](#running-with-a-wsgi-server)
+  - [Seeding the application with data](#seeding-the-application-with-data)
+  - [Containerization](#containerization)
+  - [Build an image](#build-an-image)
+  - [Run a container](#run-a-container)
 
 ## Prerequisites
 
-In order to seamlessly interact with the repository and the software it contains you need to following tools preinstalled:
+In order to seamlessly interact with the repository and the software it contains you need the following tools preinstalled:
 
 - Python Interpreter
 - OCI-Compliant Container Engine (e.g. podman, docker, etc.)
@@ -19,7 +39,7 @@ In order to seamlessly interact with the repository and the software it contains
 In order to quickly get started with the project follow these steps:
 
 1. clone the repository
-1. nagivate to the repository
+1. navigate to the repository
 1. (optional) create a virtual environment with `python -m venv my-venv`
     1. activate the virtual environment:
         - on Windows run: `my-venv/Scripts/activate`
