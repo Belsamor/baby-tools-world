@@ -43,7 +43,7 @@
           {% for tag in product.tags.all %}
             <span class="product-tag">{{ tag.name }}</span>
           {% empty %}
-            <span class="text-muted">No tags available</span>
+            <span class="fst-italic">No tags available</span>
           {% endfor %}
         </div>
         <div class="btn btn-primary btn-center mt-auto">Buy now</div>

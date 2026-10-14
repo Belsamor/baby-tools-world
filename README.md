@@ -6,10 +6,15 @@ This repository contains the source code of the 'Baby Tools World' which is a si
 The project was developed for educational purposes only and therefore has no claim to feature completeness, or only minimal claims regarding application security, user experience, or design.
 This Project teaches Python, Django, HTML and how to use docker.
 
+### Features
+
+The features of the Baby Tools World site include creating products, creating and assigning categories and tags to these products, and commenting on and rating them. To comment on or rate products, you need a standard user account, which you can create on the website. To add and assign tags, categories or products you need an account with administrator privileges.
+
 ## Table of Contents
 
 - [Belsamor/baby-tools-world](#belsamorbaby-tools-world)
   - [Baby Tools World](#baby-tools-world)
+    - [Features](#features)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Quickstart](#quickstart)
